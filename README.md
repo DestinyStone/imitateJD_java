@@ -1,4 +1,4 @@
-#环境依赖
+#环境依赖  
 jdk version: 1.8  
 maven version: 3.5.0
 mysql version: 5.6  
@@ -7,11 +7,11 @@ tomcat  version: 8.5
 elasticsearch version: 7.6.0  
 rabbitmq  version: 3.8.9 
 
-#部署步骤
+#部署步骤  
 无
 
 
-#目录结构描述
+#目录结构描述  
 ├── imitatejd_parent                   // 所有模块的父类，版本管理   
 ├── imitatejd_api                      // api模块  
 │   ├── bean                          // 存放映射类  
